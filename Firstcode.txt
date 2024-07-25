@@ -1,1 +1,3 @@
+Tis is my first code done by me
 This is my first code using git.
+ 
